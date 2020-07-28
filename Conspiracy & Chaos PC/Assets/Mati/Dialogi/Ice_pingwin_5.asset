@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dedc125c25556724f8d7636b84c3f0e6, type: 3}
+  m_Name: Ice_pingwin_5
+  m_EditorClassIdentifier: 
+  dialogText:
+  - "Kr\xF3l Pingwin: Witam w krainie co z dobrobytu s\u0142ynie!"
+  - "Kr\xF3l Pingwin: Mam dla Ciebie zadanie wojowniku."
+  - "Kr\xF3l Pingwin: Domy\u015Blam si\u0119 po co tu jeste\u015B, wi\u0119c dobijemy
+    targu."
+  - "Kr\xF3l Pingwin: Zabijesz te paskudztwa co wype\u0142z\u0142y, a ja w zamian
+    powiem Ci, gdzie ten zakapturzony typ zgubi\u0142 jakie\u015B z\u0142otko."
+  - "Gracz: No c\xF3\u017C, chyba nie mam wyboru."
+  - "Kr\xF3l Pingwin: \u015Awietnie, to widzimy si\u0119 po wszystkim."

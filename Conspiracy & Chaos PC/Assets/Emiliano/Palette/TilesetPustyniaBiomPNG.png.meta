@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: e975536e46514494e80f33803ec859b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5331482063392597730
+    second: TilesetPustyniaBiomPNG_0
+  - first:
+      213: 6081118499726216834
+    second: TilesetPustyniaBiomPNG_1
+  - first:
+      213: 9179217473289699371
+    second: TilesetPustyniaBiomPNG_2
+  - first:
+      213: 8763225472107071395
+    second: TilesetPustyniaBiomPNG_3
+  - first:
+      213: -629857891199647549
+    second: TilesetPustyniaBiomPNG_4
+  - first:
+      213: -3488478192871912454
+    second: TilesetPustyniaBiomPNG_5
+  - first:
+      213: 872686650747276328
+    second: TilesetPustyniaBiomPNG_6
+  - first:
+      213: 1524108169956502762
+    second: TilesetPustyniaBiomPNG_7
+  - first:
+      213: 1538419798238944767
+    second: TilesetPustyniaBiomPNG_8
+  - first:
+      213: 1504876538487925763
+    second: TilesetPustyniaBiomPNG_9
+  - first:
+      213: 4795205345974261966
+    second: TilesetPustyniaBiomPNG_10
+  - first:
+      213: -8568560310487710747
+    second: TilesetPustyniaBiomPNG_11
+  - first:
+      213: -5673450902066364393
+    second: TilesetPustyniaBiomPNG_12
+  - first:
+      213: -4142650690088797030
+    second: TilesetPustyniaBiomPNG_13
+  - first:
+      213: 6235775930323943057
+    second: TilesetPustyniaBiomPNG_14
+  - first:
+      213: -7713803965534156932
+    second: TilesetPustyniaBiomPNG_15
+  - first:
+      213: 3082406065460006974
+    second: TilesetPustyniaBiomPNG_16
+  - first:
+      213: -6283088945262952593
+    second: TilesetPustyniaBiomPNG_17
+  - first:
+      213: 3847077118550365378
+    second: TilesetPustyniaBiomPNG_18
+  - first:
+      213: 3164325627187288569
+    second: TilesetPustyniaBiomPNG_19
+  - first:
+      213: -8698447273348174624
+    second: TilesetPustyniaBiomPNG_20
+  - first:
+      213: 5551253995825615090
+    second: TilesetPustyniaBiomPNG_21
+  - first:
+      213: -8358646461639011144
+    second: TilesetPustyniaBiomPNG_22
+  - first:
+      213: -5420838603374104415
+    second: TilesetPustyniaBiomPNG_23
+  - first:
+      213: 7317436674000649193
+    second: TilesetPustyniaBiomPNG_24
+  - first:
+      213: -3304633418039474926
+    second: TilesetPustyniaBiomPNG_25
+  - first:
+      213: 6062987477027472360
+    second: TilesetPustyniaBiomPNG_26
+  - first:
+      213: -1493938236269913414
+    second: TilesetPustyniaBiomPNG_27
+  - first:
+      213: 7469997747408290030
+    second: TilesetPustyniaBiomPNG_28
+  - first:
+      213: 1019139413365664989
+    second: TilesetPustyniaBiomPNG_29
+  - first:
+      213: 5936149903944227103
+    second: TilesetPustyniaBiomPNG_30
+  - first:
+      213: 27199462475878011
+    second: TilesetPustyniaBiomPNG_31
+  - first:
+      213: -268918274960109908
+    second: TilesetPustyniaBiomPNG_32
+  - first:
+      213: 6274807871953961654
+    second: TilesetPustyniaBiomPNG_33
+  - first:
+      213: -2617190876810956941
+    second: TilesetPustyniaBiomPNG_34
+  - first:
+      213: 6686971093945098348
+    second: TilesetPustyniaBiomPNG_35
+  - first:
+      213: -1380896678580551400
+    second: TilesetPustyniaBiomPNG_36
+  - first:
+      213: -907341752861106558
+    second: TilesetPustyniaBiomPNG_37
+  - first:
+      213: 1419986282199578854
+    second: TilesetPustyniaBiomPNG_38
+  - first:
+      213: 2719380256565608584
+    second: TilesetPustyniaBiomPNG_39
+  - first:
+      213: -8127716258658316366
+    second: TilesetPustyniaBiomPNG_40
+  - first:
+      213: -1517207252944667619
+    second: TilesetPustyniaBiomPNG_41
+  - first:
+      213: -8755247700079422244
+    second: TilesetPustyniaBiomPNG_42
+  - first:
+      213: -7895109950616390339
+    second: TilesetPustyniaBiomPNG_43
+  - first:
+      213: -1980899488659429457
+    second: TilesetPustyniaBiomPNG_44
+  - first:
+      213: -403976422473915127
+    second: TilesetPustyniaBiomPNG_45
+  - first:
+      213: 3084103471868296957
+    second: TilesetPustyniaBiomPNG_46
+  - first:
+      213: -5760425536412045575
+    second: TilesetPustyniaBiomPNG_47
+  - first:
+      213: -3262356172209892611
+    second: TilesetPustyniaBiomPNG_48
+  - first:
+      213: 5937610226318011051
+    second: TilesetPustyniaBiomPNG_49
+  - first:
+      213: 8559961716194183925
+    second: TilesetPustyniaBiomPNG_50
+  - first:
+      213: -5590215101567655108
+    second: TilesetPustyniaBiomPNG_51
+  - first:
+      213: -3926433767583656760
+    second: TilesetPustyniaBiomPNG_52
+  - first:
+      213: 4697464961450203677
+    second: TilesetPustyniaBiomPNG_53
+  - first:
+      213: -3637060581162086802
+    second: TilesetPustyniaBiomPNG_54
+  - first:
+      213: -989351146327193653
+    second: TilesetPustyniaBiomPNG_55
+  - first:
+      213: -3276886150381435265
+    second: TilesetPustyniaBiomPNG_56
+  - first:
+      213: 2159188733035733912
+    second: TilesetPustyniaBiomPNG_57
+  - first:
+      213: -1095776457705007661
+    second: TilesetPustyniaBiomPNG_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2046
+        width: 1251
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e1e270ba3df940800000000000000
+      internalID: 5331482063392597730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_1
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 2046
+        width: 1251
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ecc3d6e09746450800000000000000
+      internalID: 6081118499726216834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_2
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 2046
+        width: 1251
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20cd7b88a1236f70800000000000000
+      internalID: 9179217473289699371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_3
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 2046
+        width: 1251
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c897232b3d9970800000000000000
+      internalID: 8763225472107071395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1095
+        width: 1251
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c08118c59b4247f0800000000000000
+      internalID: -629857891199647549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_5
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1095
+        width: 1251
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb4c2bf09f669fc0800000000000000
+      internalID: -3488478192871912454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_6
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 1095
+        width: 1251
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c440a92e76c1c00800000000000000
+      internalID: 872686650747276328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_7
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1095
+        width: 1251
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec27853e48b62510800000000000000
+      internalID: 1524108169956502762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetPustyniaBiomPNG_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 152
+        width: 1252
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdd575d7a0995510800000000000000
+      internalID: 1538419798238944767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

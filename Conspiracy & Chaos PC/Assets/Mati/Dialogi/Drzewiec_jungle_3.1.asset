@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dedc125c25556724f8d7636b84c3f0e6, type: 3}
+  m_Name: Drzewiec_jungle_3.1
+  m_EditorClassIdentifier: 
+  dialogText:
+  - "Drzewiec: Kolejny go\u015B\u0107 w lesie. Kumulacja, bo wyczuwam w naszej krainie
+    obecno\u015B\u0107 smoka."
+  - "Drzewiec: Wiem te\u017C za czym p\u0119dzisz. W moim lesie nic si\u0119 przede
+    mn\u0105 nie ukryje."
+  - "Drzewiec: Czym pr\u0119dzej musisz powstrzyma\u0107 tego z\u0142odzieja. Zdaje
+    si\u0119, \u017Ce jeden drugiego zdradzi\u0142. "
+  - 'Gracz: Smoka? Ta prastara istota tu jest?'
+  - "Drzewiec: Tak, wyczuwam jej magi\u0119 bardzo mocno. Kto\u015B od samego pocz\u0105tku
+    to wszystko zaplanowa\u0142."
+  - "Drzewiec: St\u0105d te\u017C te wszystkie dziwne potwory na powierzchni."
+  - "Drzewiec: Spotkamy si\u0119 p\xF3\u017Aniej. W lesie czeka Ci\u0119 wiele niebezpiecze\u0144stw."
+  - "Gracz: Potwory potworami, musz\u0119 odzyska\u0107 artefakt, \u017Ceby pokona\u0107
+    to bydle."

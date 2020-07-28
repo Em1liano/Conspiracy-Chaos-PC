@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 740828cb1412bdb49b56e88ee74439d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1548366530853723296
+    second: TilesetJaskiniaBiomPNG_0
+  - first:
+      213: 8484877660687638970
+    second: TilesetJaskiniaBiomPNG_1
+  - first:
+      213: -4076053861629456343
+    second: TilesetJaskiniaBiomPNG_2
+  - first:
+      213: -8610915048332834038
+    second: TilesetJaskiniaBiomPNG_3
+  - first:
+      213: -8020654419687469788
+    second: TilesetJaskiniaBiomPNG_4
+  - first:
+      213: -2148866397928552499
+    second: TilesetJaskiniaBiomPNG_5
+  - first:
+      213: -1350223195130266148
+    second: TilesetJaskiniaBiomPNG_6
+  - first:
+      213: 4826139620205266960
+    second: TilesetJaskiniaBiomPNG_7
+  - first:
+      213: 5049144884732959788
+    second: TilesetJaskiniaBiomPNG_8
+  - first:
+      213: -9049432615744732509
+    second: TilesetJaskiniaBiomPNG_9
+  - first:
+      213: -2416613510159076187
+    second: TilesetJaskiniaBiomPNG_10
+  - first:
+      213: 6193359063148758779
+    second: TilesetJaskiniaBiomPNG_11
+  - first:
+      213: -2315846984043068505
+    second: TilesetJaskiniaBiomPNG_12
+  - first:
+      213: 5820977959035957554
+    second: TilesetJaskiniaBiomPNG_13
+  - first:
+      213: 6130568077490686452
+    second: TilesetJaskiniaBiomPNG_14
+  - first:
+      213: -3446662085920508338
+    second: TilesetJaskiniaBiomPNG_15
+  - first:
+      213: 8551506748922098329
+    second: TilesetJaskiniaBiomPNG_16
+  - first:
+      213: -7609530029465122365
+    second: TilesetJaskiniaBiomPNG_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2388
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acd3adf727ec7510800000000000000
+      internalID: 1548366530853723296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_1
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2388
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab12fef074750c570800000000000000
+      internalID: 8484877660687638970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_2
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 2388
+        width: 1054
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209734db92fe67c0800000000000000
+      internalID: -4076053861629456343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b4e09d262ef7880800000000000000
+      internalID: -8610915048332834038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_4
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1598
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d8c50fc49e0b090800000000000000
+      internalID: -8020654419687469788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_5
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1598
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc702b17561bd22e0800000000000000
+      internalID: -2148866397928552499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd74c6682b034de0800000000000000
+      internalID: -1350223195130266148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_7
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 808
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01806c22a64e9f240800000000000000
+      internalID: 4826139620205266960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_8
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 808
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c1df9658a221640800000000000000
+      internalID: 5049144884732959788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1064
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a283bf5bf4f96280800000000000000
+      internalID: -9049432615744732509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJaskiniaBiomPNG_10
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 0
+        width: 1064
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4fe87f0d6767ed0800000000000000
+      internalID: -2416613510159076187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

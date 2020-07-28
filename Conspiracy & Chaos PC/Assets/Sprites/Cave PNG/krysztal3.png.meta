@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 647b1e4422d6de24fa5e5fedd4054836
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2870395330290627927
+    second: krysztal3_0
+  - first:
+      213: 6273801055973819092
+    second: krysztal3_1
+  - first:
+      213: -2192404886648584513
+    second: krysztal3_2
+  - first:
+      213: 5259563690827521905
+    second: krysztal3_3
+  - first:
+      213: -1447544958086143251
+    second: krysztal3_4
+  - first:
+      213: -1643998999647913754
+    second: krysztal3_5
+  - first:
+      213: 7436113365341847600
+    second: krysztal3_6
+  - first:
+      213: -907447121508520515
+    second: krysztal3_7
+  - first:
+      213: -4055181430858809322
+    second: krysztal3_8
+  - first:
+      213: 4935069391663563092
+    second: krysztal3_9
+  - first:
+      213: 8471504979544553135
+    second: krysztal3_10
+  - first:
+      213: 1049793807656525443
+    second: krysztal3_11
+  - first:
+      213: -5133304005914890046
+    second: krysztal3_12
+  - first:
+      213: -9143463307023025076
+    second: krysztal3_13
+  - first:
+      213: 7793909857205447472
+    second: krysztal3_14
+  - first:
+      213: 7689360158400047527
+    second: krysztal3_15
+  - first:
+      213: 24740382309839321
+    second: krysztal3_16
+  - first:
+      213: 3765438332705710474
+    second: krysztal3_17
+  - first:
+      213: 4087356750948720643
+    second: krysztal3_18
+  - first:
+      213: -8408429898814447326
+    second: krysztal3_19
+  - first:
+      213: -6786733213126005570
+    second: krysztal3_20
+  - first:
+      213: -2516100841642166757
+    second: krysztal3_21
+  - first:
+      213: 1698895686771058622
+    second: krysztal3_22
+  - first:
+      213: 7165273061226834823
+    second: krysztal3_23
+  - first:
+      213: -7391610936168815191
+    second: krysztal3_24
+  - first:
+      213: -3648463234662698231
+    second: krysztal3_25
+  - first:
+      213: -1605571802115584310
+    second: krysztal3_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: krysztal3_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 889
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4615b7ae4a28d0800000000000000
+      internalID: -2870395330290627927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 882
+        width: 113
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d24ac402d4011750800000000000000
+      internalID: 6273801055973819092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 879
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb60b771f530391e0800000000000000
+      internalID: -2192404886648584513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 876
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f11597f49bdf840800000000000000
+      internalID: 5259563690827521905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 868
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de22ed0b78949ebe0800000000000000
+      internalID: -1447544958086143251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 860
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e873eebe975f29e0800000000000000
+      internalID: -1643998999647913754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 607
+        width: 113
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0304cb225b1623760800000000000000
+      internalID: 7436113365341847600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 607
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbda80e96a91863f0800000000000000
+      internalID: -907447121508520515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 238
+        width: 73
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61086e159f919b7c0800000000000000
+      internalID: -4055181430858809322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 238
+        width: 73
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518200f673ec7440800000000000000
+      internalID: 4935069391663563092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 238
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6b4ba15e4d09570800000000000000
+      internalID: 8471504979544553135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 249
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e95c0f7ed919e00800000000000000
+      internalID: 1049793807656525443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 240
+        width: 74
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c07a5b3437d2c8b0800000000000000
+      internalID: -5133304005914890046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 238
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf2100194eb1180800000000000000
+      internalID: -9143463307023025076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 285
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6522a8b7892c60800000000000000
+      internalID: 7793909857205447472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_15
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 281
+        width: 129
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9e977f25816ba60800000000000000
+      internalID: 7689360158400047527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 281
+        width: 129
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17f232f35e75000800000000000000
+      internalID: 24740382309839321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_17
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 271
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a812094a636814430800000000000000
+      internalID: 3765438332705710474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 73
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300e79a2f4539b830800000000000000
+      internalID: 4087356750948720643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 61
+        width: 74
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221246a8e814f4b80800000000000000
+      internalID: -8408429898814447326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 64
+        width: 73
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc674ea91ea0d1a0800000000000000
+      internalID: -6786733213126005570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 68
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167bda8d93051dd0800000000000000
+      internalID: -2516100841642166757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 64
+        width: 73
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ae6040a0b39710800000000000000
+      internalID: 1698895686771058622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_23
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 5
+        width: 129
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be91dc2e9207360800000000000000
+      internalID: 7165273061226834823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_24
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 5
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e3c71409bb6990800000000000000
+      internalID: -7391610936168815191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_25
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 5
+        width: 129
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037bd9b40e0e5dc0800000000000000
+      internalID: -3648463234662698231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: krysztal3_26
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 0
+        width: 129
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace4481e3fcd7b9e0800000000000000
+      internalID: -1605571802115584310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

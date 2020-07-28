@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 69f268cd778a23b419362a6f87164468
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1768148442193830306
+    second: grzybki5_0
+  - first:
+      213: -89520263940271040
+    second: grzybki5_1
+  - first:
+      213: 87485662604321086
+    second: grzybki5_2
+  - first:
+      213: 7338797887381655687
+    second: grzybki5_3
+  - first:
+      213: -3530309500253699241
+    second: grzybki5_4
+  - first:
+      213: 4660627589658165461
+    second: grzybki5_5
+  - first:
+      213: -1601420451193512728
+    second: grzybki5_6
+  - first:
+      213: 5211878448733255723
+    second: grzybki5_7
+  - first:
+      213: -8052744664563386950
+    second: grzybki5_8
+  - first:
+      213: 5509138748165665212
+    second: grzybki5_9
+  - first:
+      213: -7946224834367233202
+    second: grzybki5_10
+  - first:
+      213: -3649136008519179898
+    second: grzybki5_11
+  - first:
+      213: -8506122393705880575
+    second: grzybki5_12
+  - first:
+      213: -8027403977718016538
+    second: grzybki5_13
+  - first:
+      213: 2736772639266787626
+    second: grzybki5_14
+  - first:
+      213: 1225752687902550425
+    second: grzybki5_15
+  - first:
+      213: -4253282304534299510
+    second: grzybki5_16
+  - first:
+      213: 6702638692182688615
+    second: grzybki5_17
+  - first:
+      213: 170567955983646617
+    second: grzybki5_18
+  - first:
+      213: 7564072700379611596
+    second: grzybki5_19
+  - first:
+      213: -4539560464605474264
+    second: grzybki5_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grzybki5_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 592
+        width: 312
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1af1fd3a9b98810800000000000000
+      internalID: 1768148442193830306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 596
+        width: 313
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04414a35bc5f1cef0800000000000000
+      internalID: -89520263940271040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_2
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 582
+        width: 604
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3168722fbfc63100800000000000000
+      internalID: 87485662604321086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_3
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 563
+        width: 313
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78055c3cbc5a8d560800000000000000
+      internalID: 7338797887381655687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_4
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 582
+        width: 315
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7530132c632d10fc0800000000000000
+      internalID: -3530309500253699241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_5
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 579
+        width: 315
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0c5f78910eda040800000000000000
+      internalID: 4660627589658165461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_6
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 575
+        width: 315
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec9096959c96c9e0800000000000000
+      internalID: -1601420451193512728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_7
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 568
+        width: 313
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28724dd5df445840800000000000000
+      internalID: 5211878448733255723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_8
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 582
+        width: 313
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f6c19467ee3090800000000000000
+      internalID: -8052744664563386950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_9
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 561
+        width: 316
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb131c6b084647c40800000000000000
+      internalID: 5509138748165665212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 316
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4367223d9659b190800000000000000
+      internalID: -7946224834367233202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 68
+        width: 315
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681a02b522aab5dc0800000000000000
+      internalID: -3649136008519179898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_12
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 61
+        width: 316
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1046a2310ce24f980800000000000000
+      internalID: -8506122393705880575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_13
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 52
+        width: 316
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e55f8ffc9ee89090800000000000000
+      internalID: -8027403977718016538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_14
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 52
+        width: 316
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2151822738faf520800000000000000
+      internalID: 2736772639266787626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_15
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 42
+        width: 316
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99969e8439fb20110800000000000000
+      internalID: 1225752687902550425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_16
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 37
+        width: 315
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c37c4674e49f4c0800000000000000
+      internalID: -4253282304534299510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_17
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 35
+        width: 316
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7638651e06e840d50800000000000000
+      internalID: 6702638692182688615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_18
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 93
+        width: 315
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f387af6aafd5200800000000000000
+      internalID: 170567955983646617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_19
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 93
+        width: 316
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc14b597b0cf8f860800000000000000
+      internalID: 7564072700379611596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grzybki5_20
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 84
+        width: 315
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82298ce1fcd3001c0800000000000000
+      internalID: -4539560464605474264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

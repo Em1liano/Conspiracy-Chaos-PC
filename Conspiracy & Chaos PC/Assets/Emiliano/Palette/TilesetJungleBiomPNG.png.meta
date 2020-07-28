@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: e8bd739279fb9dd4c9c7a243240d91b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7516954709748645110
+    second: TilesetJungleBiomPNG_0
+  - first:
+      213: -7765084808993660806
+    second: TilesetJungleBiomPNG_1
+  - first:
+      213: 3372314894543725050
+    second: TilesetJungleBiomPNG_2
+  - first:
+      213: 2649216553827499649
+    second: TilesetJungleBiomPNG_3
+  - first:
+      213: 126292401025910434
+    second: TilesetJungleBiomPNG_4
+  - first:
+      213: -5965143370959943645
+    second: TilesetJungleBiomPNG_5
+  - first:
+      213: 998828173976235740
+    second: TilesetJungleBiomPNG_6
+  - first:
+      213: 4613538941812398041
+    second: TilesetJungleBiomPNG_7
+  - first:
+      213: 3064141755677129027
+    second: TilesetJungleBiomPNG_8
+  - first:
+      213: 7707731703274252305
+    second: TilesetJungleBiomPNG_9
+  - first:
+      213: -6173998066940194865
+    second: TilesetJungleBiomPNG_10
+  - first:
+      213: 5232636096706656003
+    second: TilesetJungleBiomPNG_11
+  - first:
+      213: 3698347933133222340
+    second: TilesetJungleBiomPNG_12
+  - first:
+      213: 1551789192159243637
+    second: TilesetJungleBiomPNG_13
+  - first:
+      213: 7577900842432054607
+    second: TilesetJungleBiomPNG_14
+  - first:
+      213: -4876632763398368335
+    second: TilesetJungleBiomPNG_15
+  - first:
+      213: -7903749285297002194
+    second: TilesetJungleBiomPNG_16
+  - first:
+      213: 8576001371186256558
+    second: TilesetJungleBiomPNG_17
+  - first:
+      213: -137852356807267695
+    second: TilesetJungleBiomPNG_18
+  - first:
+      213: 2410117378923664648
+    second: TilesetJungleBiomPNG_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1991
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038bbc94896ea790800000000000000
+      internalID: -7516954709748645110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_1
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1991
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a625e180ec3490800000000000000
+      internalID: -7765084808993660806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_2
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 1991
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a900878edcce20800000000000000
+      internalID: 3372314894543725050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 985
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef8f76b68e3c420800000000000000
+      internalID: 2649216553827499649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_4
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 985
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a60bf4054ea0c100800000000000000
+      internalID: 126292401025910434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_5
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 986
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32808a375bd873da0800000000000000
+      internalID: -5965143370959943645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde6185aeec8cdd00800000000000000
+      internalID: 998828173976235740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_7
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7d8285935960040800000000000000
+      internalID: 4613538941812398041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetJungleBiomPNG_8
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 5
+        width: 1252
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b39831b4068a20800000000000000
+      internalID: 3064141755677129027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

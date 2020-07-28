@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/teamlogo.unity
+    guid: 8b182be33aed5294f8d24035b0c08bb4
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/gamelogo.unity
+    guid: a97f6964684d228409bc7bcb2372818b
+  - enabled: 1
+    path: Assets/Scenes/Menu scenes/Start Screen.unity
+    guid: e5e69e9a4a1311c4a9e2a1ba15cd4fc6
+  - enabled: 1
+    path: Assets/Scenes/Menu scenes/Options Screen.unity
+    guid: 1f8f183c15754ff4cbc563a4d3093207
+  - enabled: 1
+    path: Assets/Scenes/Menu scenes/Load Game Scene.unity
+    guid: 3d59c04b1caa1714b8e0224e18be99d6
+  - enabled: 1
+    path: Assets/Scenes/Menu scenes/Sound Screen.unity
+    guid: d85ca0fb749e1244cae84879ac1d0e81
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/mainmap.unity
+    guid: bcfeff64dbd49e34d9bd26c35d219821
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/CastleCutscene.unity
+    guid: c3704e2412a257f459c14179dc72c53e
+  - enabled: 1
+    path: Assets/Scenes/Castle.unity
+    guid: 018a83099f298b94d9158630bd0e3e66
+  - enabled: 1
+    path: Assets/Scenes/Boss scenes/Boss Castle.unity
+    guid: 6305cd17eea52034d9ec97a5f2bdc380
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/MapCastleToCave.unity
+    guid: 61061472f9e4344458fe4a6898808443
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/Cavecutscene.unity
+    guid: d57dd1cf41f2f3144a2200503dcd595f
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 0373bd9aab33c0541baab3c0ae2b78d8
+  - enabled: 1
+    path: Assets/Scenes/Boss scenes/Boss Cave.unity
+    guid: b7e9dfc23ec91b846a29dbde7f230a7c
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/MapCaveToJungle.unity
+    guid: 712c193706c912645ad9599440beb834
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/JungleCutscene.unity
+    guid: 6f48f1d38148bb842b131a407bd9907c
+  - enabled: 1
+    path: Assets/Scenes/Jungle.unity
+    guid: 09990dbed57c3b643b64f7371e3f9000
+  - enabled: 1
+    path: Assets/Scenes/Boss scenes/Boss Jungle.unity
+    guid: d46f6d212d9a06f44820ae539e2eb5c3
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/MapJungleToDesert.unity
+    guid: 47f11243e8e44eb4b99bcb6b75b297f0
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/DesertCutscene.unity
+    guid: c6b9c1984833c6742891ad2f9bbec173
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: 423ed2ce11995ee44a40d732dcd250e4
+  - enabled: 1
+    path: Assets/Scenes/Boss scenes/Boss Desert.unity
+    guid: c2dc09aa2641c2548809ae5f186a1df5
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/MapDesertToIce.unity
+    guid: 4073ad945df043349bd58ca5a7863404
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/IceCutscene.unity
+    guid: b567bd3f1342deb469236fac9b9d0654
+  - enabled: 1
+    path: Assets/Scenes/Ice.unity
+    guid: 55cc0e86fa4c5f94ab6c86e1bc887284
+  - enabled: 1
+    path: Assets/Scenes/Boss scenes/Boss Ice.unity
+    guid: c0ea9bc7d65b80b4eb7e7459bb825454
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/MapIceToVolcano.unity
+    guid: f346a309f7a938c42a3e7d5b67d11f1a
+  - enabled: 1
+    path: Assets/Scenes/cutscenes/Volcanocutscene.unity
+    guid: 45807a1b3a9dfd848ad5a1242f07faf8
+  - enabled: 1
+    path: Assets/Scenes/Volcano.unity
+    guid: 45f2807fdd21c114aaf36f5d87d8d943
+  - enabled: 1
+    path: Assets/Scenes/Boss scenes/Boss Volcano.unity
+    guid: e42085345499aa54ca09f8f15e409a58
+  - enabled: 1
+    path: Assets/Scenes/Menu scenes/End Game.unity
+    guid: 624502808a9f03549831161f521d5f46
+  m_configObjects: {}
